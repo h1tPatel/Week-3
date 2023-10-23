@@ -32,10 +32,10 @@ open index.html  # On macOS
 xdg-open index.html  # On Linux
 start index.html  # On Windows
 
-# To interact with the 3D model:
+## To interact with the 3D model:
 - Use mouse controls: drag to rotate, scroll to zoom.
 
-# 🤝 To contribute to this project:
+## 🤝 To contribute to this project:
 
 1. Fork the repository on GitHub.
 
