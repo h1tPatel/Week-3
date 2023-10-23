@@ -7,7 +7,6 @@ This repository contains the webpage and 3D model assets for boAt earbuds.
 
 - [🎙 Introduction](#introduction)
 - [⭐ Features](#features)
-- [🔧 Installation](#installation)
 - [🚀 Usage](#usage)
 - [🤝 Contributing](#contributing)
 - [📜 License](#license)
@@ -22,7 +21,6 @@ boAt is a leading audio brand that reflects the collision of the music, fashion,
 - **🔍 Interactive 3D Model**: Allows users to view the earbuds from different angles and zoom in to see intricate details.
 - **📖 Product Information**: Detailed specifications and features of the earbuds.
 
-## 🔧 Installation
 
 ## 🚀 Usage
 # To view the webpage:
